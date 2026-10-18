@@ -1,0 +1,6 @@
+{
+  "name": "Clooney - Smart AI Assistant",
+  "description": "A smart, friendly, all-in-one conversational AI assistant for chat, math, coding, image generation, and document analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
